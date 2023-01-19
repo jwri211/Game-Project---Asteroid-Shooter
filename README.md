@@ -15,3 +15,6 @@ they will jam your guns!
 ### Author:
 This contains the files needed for IT6034 Game Development - Project
 The game has been created by me, John Wright, using Godot in March and April of 2022.
+
+### Instructions:
+Download the zip file, extract and run with GODOT. Code is found in the .gd files in the file structure.
