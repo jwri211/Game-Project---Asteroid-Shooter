@@ -1,7 +1,7 @@
 # Asteroid Shooter
 ## IT6034 Game Development project. GODOT GAME ENGINE
 
-###Description:
+##Description:
 This game is a simple game where you pilot a ship and shoot at oncoming asteroids to destroy thm before
 they hit you and break your ship! You move around with the mouse and click to fire lasers that burst the
 oncoming rocks.
